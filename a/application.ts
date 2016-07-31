@@ -1,2 +1,2 @@
 /// <reference path='a.ts' />
-/// <reference path="some-files/a1.ts" />
+/// <reference path="some-folder/a2.ts" />

@@ -1,5 +1,5 @@
 module a {
-    export class A1 {
+    export class A2 {
         // Properties
         private name: string;
 
